@@ -94,6 +94,7 @@ else
 
 ## OUTPUT:
 ![image](https://github.com/Akalyaalex/Interfacing-IR-sensor/assets/114275126/7373f09a-488d-4378-b395-e22536e7e576)
+![image](https://github.com/Akalyaalex/Interfacing-IR-sensor/assets/114275126/273a23b5-81d1-404d-ba12-f0a837680555)
 
 
 ## RESULT:
